@@ -1,0 +1,15 @@
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+D:\py\class\C#(homework)\homework6\task41\bin\Debug\net6.0\task41.exe
+D:\py\class\C#(homework)\homework6\task41\bin\Debug\net6.0\task41.deps.json
+D:\py\class\C#(homework)\homework6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+D:\py\class\C#(homework)\homework6\task41\bin\Debug\net6.0\task41.dll
+D:\py\class\C#(homework)\homework6\task41\bin\Debug\net6.0\task41.pdb
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.dll
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\refint\task41.dll
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.pdb
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+D:\py\class\C#(homework)\homework6\task41\obj\Debug\net6.0\ref\task41.dll
