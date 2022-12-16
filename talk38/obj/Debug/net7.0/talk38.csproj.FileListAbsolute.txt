@@ -1,0 +1,15 @@
+D:\py\class\C#(homework)\homewokr5\talk38\bin\Debug\net7.0\talk38.exe
+D:\py\class\C#(homework)\homewokr5\talk38\bin\Debug\net7.0\talk38.deps.json
+D:\py\class\C#(homework)\homewokr5\talk38\bin\Debug\net7.0\talk38.runtimeconfig.json
+D:\py\class\C#(homework)\homewokr5\talk38\bin\Debug\net7.0\talk38.dll
+D:\py\class\C#(homework)\homewokr5\talk38\bin\Debug\net7.0\talk38.pdb
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.csproj.AssemblyReference.cache
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.AssemblyInfoInputs.cache
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.AssemblyInfo.cs
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.csproj.CoreCompileInputs.cache
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.dll
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\refint\talk38.dll
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.pdb
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\talk38.genruntimeconfig.cache
+D:\py\class\C#(homework)\homewokr5\talk38\obj\Debug\net7.0\ref\talk38.dll
