@@ -1,0 +1,15 @@
+D:\py\class\C#(homework)\homework7\task50\bin\Debug\net7.0\task50.exe
+D:\py\class\C#(homework)\homework7\task50\bin\Debug\net7.0\task50.deps.json
+D:\py\class\C#(homework)\homework7\task50\bin\Debug\net7.0\task50.runtimeconfig.json
+D:\py\class\C#(homework)\homework7\task50\bin\Debug\net7.0\task50.dll
+D:\py\class\C#(homework)\homework7\task50\bin\Debug\net7.0\task50.pdb
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.csproj.AssemblyReference.cache
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.AssemblyInfoInputs.cache
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.AssemblyInfo.cs
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.csproj.CoreCompileInputs.cache
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.dll
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\refint\task50.dll
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.pdb
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\task50.genruntimeconfig.cache
+D:\py\class\C#(homework)\homework7\task50\obj\Debug\net7.0\ref\task50.dll
