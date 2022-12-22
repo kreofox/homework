@@ -1,0 +1,15 @@
+D:\py\class\C#(Seminar)\seminar006\task56\bin\Debug\net6.0\task56.exe
+D:\py\class\C#(Seminar)\seminar006\task56\bin\Debug\net6.0\task56.deps.json
+D:\py\class\C#(Seminar)\seminar006\task56\bin\Debug\net6.0\task56.runtimeconfig.json
+D:\py\class\C#(Seminar)\seminar006\task56\bin\Debug\net6.0\task56.dll
+D:\py\class\C#(Seminar)\seminar006\task56\bin\Debug\net6.0\task56.pdb
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.csproj.AssemblyReference.cache
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.AssemblyInfoInputs.cache
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.AssemblyInfo.cs
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.csproj.CoreCompileInputs.cache
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.dll
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\refint\task56.dll
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.pdb
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\task56.genruntimeconfig.cache
+D:\py\class\C#(Seminar)\seminar006\task56\obj\Debug\net6.0\ref\task56.dll
